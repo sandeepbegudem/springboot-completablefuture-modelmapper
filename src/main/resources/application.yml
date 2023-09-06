@@ -5,8 +5,8 @@ server:
 #  datasource:
 #    driverClassName: com.mysql.cj.jdbc.Driver
 #    url: jdbc:mysql://localhost:3306/patients
-#    username: root
-#    password: bs@nDip1
+#    username: <your username>
+#    password: bs@<your password>
 #  jpa:
 #    hibernate.ddl-auto: update
 #    generate-ddl: true
