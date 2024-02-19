@@ -1,1 +1,1 @@
-# Patient-Spring-Boot-ModelMapper-CompletableFuture
+# springboot-completablefuture-modelmapper
